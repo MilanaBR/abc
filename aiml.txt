@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 int main()
 {
@@ -8,3 +9,6 @@ a=temp;
 b=a;
 b=temp;
 }
+=======
+
+>>>>>>> a721105c1e7a7eaab995b2a0111f2b340ae6faae
