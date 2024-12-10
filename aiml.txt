@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 int main()
 {
@@ -12,3 +13,19 @@ else
 printf("b is greater than a");
 }
 }
+=======
+<<<<<<< HEAD
+#include<stdio.h>
+int main()
+{
+int a,b,temp;
+printf("enter the value:");
+scanf("%d%d",&a,&b);
+a=temp;
+b=a;
+b=temp;
+}
+=======
+
+>>>>>>> a721105c1e7a7eaab995b2a0111f2b340ae6faae
+>>>>>>> a8f0f61d5939dd3d7ba5c15f0fb983c564e47d2c
