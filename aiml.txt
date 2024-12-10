@@ -1,9 +1,54 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+#include<sidio.h>
+int main()
+{
+int a,b;
+printf("enter the value of a and b\n");
+scanf("%d%d", &a, &b);
+printf("subraction of %d and %d is %d",a,b,(a-b));
+return 0;
+}
+=======
+<<<<<<< HEAD
+>>>>>>> 61a671c5b68c2b5d28ce179ce1022bafe8c2a358
 #include<stdio.h>
 int main()
 {
 int a,b;
+<<<<<<< HEAD
 printf("enter value of a and b\n");
 scanf("%d%d",&a,&b);
 printf("addition of %d and %d is %d",a,b(a+b));
 return 0;
 }
+=======
+printf(enter the value:");
+scanf("%d%d",&a,&b);
+if(a>b){
+printf("a is greater than b");
+}
+else
+{
+printf("b is greater than a");
+}
+}
+=======
+<<<<<<< HEAD
+#include<stdio.h>
+int main()
+{
+int a,b,temp;
+printf("enter the value:");
+scanf("%d%d",&a,&b);
+a=temp;
+b=a;
+b=temp;
+}
+=======
+>>>>>>> 80060e485bda64581b68568c29dd5cd3bab42ce8
+
+>>>>>>> a721105c1e7a7eaab995b2a0111f2b340ae6faae
+>>>>>>> a8f0f61d5939dd3d7ba5c15f0fb983c564e47d2c
+>>>>>>> 61a671c5b68c2b5d28ce179ce1022bafe8c2a358
